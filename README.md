@@ -35,11 +35,4 @@ Web Geliştirme
 Veritabanı
 **SQLite3:** Dosya tabanlı, hafif bir ilişkisel veritabanı çözümü. Python'ın yerleşik `sqlite3` modülü ile kolayca entegre edilmiştir.
 
-Ortam ve Araçlar
-* **Virtual Environment (venv/conda):** Proje bağımlılıklarını izole etmek ve çakışmaları önlemek için önerilir.
-* **Komut İstemi / PowerShell:** Uygulamayı çalıştırma, veritabanını yönetme.
-* **DB Browser for SQLite:** SQLite veritabanı dosyalarını görsel olarak inceleme aracı (isteğe bağlı).
 
-Projeyi Klonlayın veya İndirin
-git clone <proje-depo-adresi> # Eğer bir git deposu ise
-# veya zip dosyasını indirip çıkarın
